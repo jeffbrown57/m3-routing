@@ -4,6 +4,17 @@ components_by_slot:
     name: heading_2
     properties: {text: Home}
     type: form:dep_dqy391v097mxd:_Components.Heading
+  - event_bindings: {click: menu_item_1_click}
+    layout_properties: {}
+    name: menu_item_1
+    properties: {}
+    type: form:dep_dqy391v097mxd:_Components.MenuItem
+  - data_bindings: []
+    event_bindings: {click: nav_link_1_click}
+    layout_properties: {}
+    name: nav_link_1
+    properties: {}
+    type: form:dep_0au3q6o9n1jd7b:router.NavLink
   slot_1: []
 is_package: true
 layout: {type: 'form:Layouts.Main'}

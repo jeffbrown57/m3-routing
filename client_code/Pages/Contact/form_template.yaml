@@ -1,7 +1,7 @@
 components_by_slot:
   content:
   - layout_properties: {}
-    name: heading_1
+    name: heading_3
     properties: {text: Contact}
     type: form:dep_dqy391v097mxd:_Components.Heading
 is_package: true

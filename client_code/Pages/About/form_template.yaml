@@ -1,6 +1,6 @@
 components_by_slot:
   content:
-  - event_bindings: {show: heading_1_show}
+  - event_bindings: {}
     layout_properties: {}
     name: heading_1
     properties: {text: About}
