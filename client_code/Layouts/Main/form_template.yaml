@@ -14,6 +14,10 @@ components_by_slot:
     name: nav_link_2
     properties: {icon: 'mi:group', path: /about, text: About}
     type: form:dep_0au3q6o9n1jd7b:router.NavLink
+  - layout_properties: {}
+    name: nav_link_3
+    properties: {path: /contact, text: Contact}
+    type: form:dep_0au3q6o9n1jd7b:router.NavLink
 is_package: true
 layout: {type: 'form:dep_dqy391v097mxd:Layouts.NavigationDrawerLayout'}
 slots:
