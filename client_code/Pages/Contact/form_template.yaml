@@ -1,10 +1,8 @@
 components_by_slot:
   content:
-  - event_bindings: {show: heading_1_show}
-    layout_properties: {}
+  - layout_properties: {}
     name: heading_1
-    properties: {text: About}
+    properties: {text: Contact}
     type: form:dep_dqy391v097mxd:_Components.Heading
-  slot_1: []
 is_package: true
 layout: {type: 'form:Layouts.Main'}
